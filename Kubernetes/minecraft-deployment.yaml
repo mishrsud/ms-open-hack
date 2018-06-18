@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: minecraft-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: minecraft
+    spec:
+      containers:
+      - env:
+        - name: EULA
+          value: "TRUE"
+        image: openhack/minecraft-server
+        name: minecraft
+        ports:
+        - containerPort: 25565
+        resources:
+          limits:
+            memory: "2Gi"
