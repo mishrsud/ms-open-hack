@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: minecraft-deployment
 spec:
-  replicas: 3
+  replicas: 1
   template:
     metadata:
       labels:
@@ -20,3 +20,10 @@ spec:
         resources:
           limits:
             memory: "2Gi"
+        volumeMounts:
+          - mountPath: /data
+            name: minecraft-volume
+      volumes:
+        - name: minecraft-volume
+          persistentVolumeClaim:
+            claimName: volume-minecraft
