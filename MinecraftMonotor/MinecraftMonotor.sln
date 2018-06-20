@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftMonotor", "MinecraftMonotor\MinecraftMonotor.csproj", "{DA8B95B6-D71C-447B-A846-D5BDC2E7BF2E}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BEB64904-9290-43F3-A265-B8C52A2195AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8B95B6-D71C-447B-A846-D5BDC2E7BF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8B95B6-D71C-447B-A846-D5BDC2E7BF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8B95B6-D71C-447B-A846-D5BDC2E7BF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8B95B6-D71C-447B-A846-D5BDC2E7BF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB64904-9290-43F3-A265-B8C52A2195AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB64904-9290-43F3-A265-B8C52A2195AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB64904-9290-43F3-A265-B8C52A2195AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB64904-9290-43F3-A265-B8C52A2195AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38C4730-4EDB-4BCD-88F1-4E84771960BF}
+	EndGlobalSection
+EndGlobal

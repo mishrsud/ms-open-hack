@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: minecraft-monitor
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: minecraft-monitor
+    spec:
+      containers:
+        - image: minecraftacr.azurecr.io/minecraftmonotor
+          name: minecraft-monitor
+      imagePullSecrets:
+        - name: minecraftacrsecret

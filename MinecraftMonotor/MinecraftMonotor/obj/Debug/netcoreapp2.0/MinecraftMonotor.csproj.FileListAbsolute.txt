@@ -1,0 +1,11 @@
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\bin\Debug\netcoreapp2.0\MinecraftMonotor.deps.json
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\bin\Debug\netcoreapp2.0\MinecraftMonotor.runtimeconfig.json
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\bin\Debug\netcoreapp2.0\MinecraftMonotor.runtimeconfig.dev.json
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\bin\Debug\netcoreapp2.0\MinecraftMonotor.dll
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\bin\Debug\netcoreapp2.0\MinecraftMonotor.pdb
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.csproj.CoreCompileInputs.cache
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.AssemblyInfoInputs.cache
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.AssemblyInfo.cs
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.dll
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.pdb
+C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor\MinecraftMonotor\obj\Debug\netcoreapp2.0\MinecraftMonotor.csprojAssemblyReference.cache
