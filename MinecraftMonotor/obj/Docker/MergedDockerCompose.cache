@@ -1,7 +1,0 @@
-services:
-  minecraftmonotor:
-    build:
-      context: C:\SourceCode\Github-Public\MS-OpenHack-Containers\MinecraftMonotor
-      dockerfile: MinecraftMonotor/Dockerfile
-    image: minecraftmonotor
-version: '3.4'
